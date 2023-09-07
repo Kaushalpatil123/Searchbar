@@ -34,7 +34,7 @@ const SearchBar = () => {
               <th>ID</th>
               <th>Name</th>
               <th>Email</th>
-              <th>Phone</th>
+              <th>D.O.B</th>
             </tr>
           </thead>
           <tbody>
